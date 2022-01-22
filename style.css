@@ -63,3 +63,13 @@ hr{
 .cart{
     height: 50px;
 }
+.decker{
+    height: 100vh;
+}
+.double{
+    width: 100%;
+}
+.decker img{
+    height: 300px;
+    object-fit: cover;
+}
