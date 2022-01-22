@@ -17,7 +17,7 @@ li a{
     text-decoration: none;
     color: black;
 }
-li{
+.nav-bar li{
     display: inline;
     text-decoration: none;
     margin: 20px;
