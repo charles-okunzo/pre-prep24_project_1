@@ -12,7 +12,7 @@ header{
     padding: 20px;
 }
 .head-1, .head-2{
-    font-size: 3em;
+    font-size: 2em;
 }
 .head-2{
     color: #FFC12F;
@@ -49,6 +49,32 @@ li a{
     height: 100vh;
     object-fit: contain;
     
+}
+.one{
+    padding: 20px;
+    font-size: 2em;
+    align-content: stretch;
+    height: 100vh;
+}
+.one h1, p{
+    margin: 20vh auto;
+ 
+}
+.one p{
+    color: gray;
+}
+.rain img{
+    background-color: #FFC12F;;
+}
+.btn{
+    border: 20px solid #FA952D;
+    border-radius: 30px;
+}
+a .btn{
+    text-decoration: none;
+    background-color: #FA952D;
+    color: white;
+    font-size: 20px;
 }
 .quality,.fast, .delicious{
     display: block;
