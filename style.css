@@ -23,3 +23,13 @@ li{
     margin: 20px;
     padding: 15px;
 }
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.rain img{
+    height: 100vh;
+    object-fit: contain;
+    
+}
