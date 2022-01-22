@@ -38,3 +38,28 @@ li{
     width: 30%;
     height: 80vh;
 }
+.dburger{
+    display: block;
+    width: 30%;
+    height: 80vh;
+}
+.dburger-img{
+    height: 250px;
+}
+.menu{
+    text-align: center;
+    align-content: center;
+    display: block;
+}
+hr{
+    width: 5%;
+    align-content: center;
+    margin: 0 auto;
+    border: 5px solid #FA952D;
+}
+.menu-1{
+    color: #FFC12F;
+}
+.cart{
+    height: 50px;
+}
