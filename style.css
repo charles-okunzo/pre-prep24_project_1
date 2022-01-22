@@ -9,6 +9,13 @@ header{
     flex-direction: row;
     justify-content: space-between;
     font-weight: bold;
+    padding: 20px;
+}
+.head-1, .head-2{
+    font-size: 3em;
+}
+.head-2{
+    color: #FFC12F;
 }
 ul{
     list-style-type: none;
@@ -23,6 +30,15 @@ li a{
     text-decoration: none;
     margin: 20px;
     padding: 15px;
+}
+.nav-bar
+{
+    background-color: #FFC12F;;
+}
+.nav-bar img{
+    justify-content: center;
+    align-items: center;
+    background-color: #FFC12F;;
 }
 .container{
     display: flex;
