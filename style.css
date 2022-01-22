@@ -33,3 +33,8 @@ li{
     object-fit: contain;
     
 }
+.quality,.fast, .delicious{
+    display: block;
+    width: 30%;
+    height: 80vh;
+}
