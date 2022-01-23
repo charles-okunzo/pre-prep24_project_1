@@ -7,7 +7,9 @@ This is a website of a burger selling company showing more about their products 
 Their products include;
 1. Double burger
 2. Double burger
-## Set up instructions
+## Setup instructions
 * Copy url to the wesite search bar
 * Clone on your local computer
 * Go live
+## Known bugs
+The navigations bar  and the 'rain or shine' background color not styled properly
