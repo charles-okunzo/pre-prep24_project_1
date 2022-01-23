@@ -11,6 +11,8 @@ Their products include;
 * Copy url to the wesite search bar
 * Clone on your local computer
 * Go live
+## Link to the site
+This is the live link to the site. [Here.](https://charles-okunzo.github.io/pre-prep24_project_1/
 ## Known bugs
 The navigations bar  and the 'rain or shine' background color not styled properly
 ## Languages used
