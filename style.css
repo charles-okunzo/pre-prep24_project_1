@@ -147,11 +147,54 @@ hr{
 }
 .decker{
     height: 100vh;
+    align-items: center;
+    margin: 10px;
+    padding: 50px 30px;
 }
 .double{
     width: 100%;
+    background-color: #F7FDF6;
 }
 .decker img{
     height: 300px;
     object-fit: cover;
+}
+.decker span{
+    color: #F6B400;
+}
+.decker h2{
+    margin-top: 30%;
+    font-size: 3em;
+    line-height: 2em;
+}
+.decker p{
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: #696969;
+    padding: 50px 0px;
+}
+.discover-app{
+    background-color: #F5B52D;
+    height: 100vh;
+    align-items: center;
+    margin: 10px;
+}
+.discover{
+    font-size:3em;
+    font-weight: bold;
+    padding: 20px;
+    margin-top: 30px;
+}
+.discover img{
+    background-color: #F5B52D;
+    height: 50px;
+    margin: 20px;
+}
+.discover p{
+    padding: 50px;
+}
+.footer div{
+    display: block;
+    align-content: flex-end;
+    text-align: end;
 }
