@@ -12,7 +12,7 @@ header{
     padding: 20px;
 }
 .head-1, .head-2{
-    font-size: 2em;
+    font-size: 2.5em;
 }
 .head-2{
     color: #FFC12F;
@@ -29,11 +29,12 @@ li a{
     display: inline;
     text-decoration: none;
     margin: 20px;
-    padding: 15px;
+    padding: 15px 30px;
+    font-size: 1.5em;
 }
 .nav-bar
 {
-    background-color: #FFC12F;;
+    background-color: #FFC12F;
 }
 .nav-bar img{
     justify-content: center;
@@ -56,9 +57,12 @@ li a{
     align-content: stretch;
     height: 100vh;
 }
-.one h1, p{
-    margin: 20vh auto;
+.one p{
+    margin: 15vh auto;
  
+}
+.one h2{
+    margin-top: 15vh;
 }
 .one p{
     color: gray;
