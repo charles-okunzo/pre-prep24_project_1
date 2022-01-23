@@ -73,12 +73,12 @@ li a{
     background-color: #FFC12F;;
 }
 .btn{
-    border: 20px solid #FA952D;
+    border: 20px solid #F6B400;
     border-radius: 30px;
 }
 a .btn{
     text-decoration: none;
-    background-color: #FA952D;
+    background-color: #F6B400;
     color: white;
     font-size: 20px;
 }
@@ -89,14 +89,16 @@ a .btn{
 }
 .dburger{
     display: block;
-    width: 350px;
+    width: 370px;
     height: 90vh;
     border-radius: 50px;
     box-shadow: 5px 5px 5px 5px grey;
-    margin: 20px;
-    padding: 20px;
-    text-align: center;
+    margin: 20px 0px;
+    padding: 30px;
     align-content: stretch;
+}
+.dburger h2{
+    text-align: center;
 }
 .dburger-img{
     height: 250px;
@@ -120,10 +122,26 @@ hr{
     border: 5px solid #FA952D;
 }
 .menu-1{
-    color: #FFC12F;
+    color: #F6B400;
 }
-.cart{
-    height: 50px;
+.dburger p{
+    padding: 30px;
+    text-align: center;
+}
+.ksh, .cart{
+    display: inline;
+    justify-content: space-between;
+}
+.dburger .cart{
+    float: right;
+    justify-content: center;
+    align-content: center;
+    width: 50px;
+    background-color: #E1EBE6;
+}
+.ksh{
+    font-size: 25px;
+    float: left;
 }
 .decker{
     height: 100vh;
