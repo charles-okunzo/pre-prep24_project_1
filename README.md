@@ -15,3 +15,5 @@ Their products include;
 The navigations bar  and the 'rain or shine' background color not styled properly
 ## Languages used
 HTML and CSS
+## Contact details & Support details
+Slack- Charles Okunzo [charles.okunzo@student.moringaschool.com](maito:charles.okunzo@student.moringaschool.com)
