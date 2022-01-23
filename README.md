@@ -16,7 +16,7 @@ The navigations bar  and the 'rain or shine' background color not styled properl
 ## Languages used
 HTML and CSS
 ## Contact details & Support details
-Slack- Charles Okunzo [charles.okunzo@student.moringaschool.com](mailto:charles.okunzo@student.moringaschool.com)
+Slack- Charles Okunzo Email: [charles.okunzo@student.moringaschool.com](mailto:charles.okunzo@student.moringaschool.com)
 ## Licence
 Read our Licence terms [Here.](https://github.com/charles-okunzo/pre-prep24_project_1/licence)
 Copyright (c) 2022 **Charles Okunzo**
