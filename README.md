@@ -13,3 +13,5 @@ Their products include;
 * Go live
 ## Known bugs
 The navigations bar  and the 'rain or shine' background color not styled properly
+## Languages used
+HTML and CSS
