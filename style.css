@@ -90,7 +90,7 @@ a .btn{
 .dburger{
     display: block;
     width: 370px;
-    height: 90vh;
+    height: 100%;
     border-radius: 50px;
     box-shadow: 5px 5px 5px 5px grey;
     margin: 20px 0px;
@@ -99,6 +99,7 @@ a .btn{
 }
 .dburger h2{
     text-align: center;
+    color: #561212;
 }
 .dburger-img{
     height: 250px;
@@ -127,6 +128,7 @@ hr{
 .dburger p{
     padding: 30px;
     text-align: center;
+    color: #696969;
 }
 .ksh, .cart{
     display: inline;
