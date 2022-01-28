@@ -11,6 +11,9 @@ header{
     font-weight: bold;
     padding: 20px;
 }
+.header em{
+    align-content: center;
+}
 .head-1, .head-2{
     font-size: 2.5em;
 }
@@ -74,7 +77,7 @@ li a{
 }
 .btn{
     border: 20px solid #F6B400;
-    border-radius: 30px;
+    border-radius: 0 30px;
 }
 a .btn{
     text-decoration: none;
@@ -150,6 +153,7 @@ hr{
     align-items: center;
     margin: 10px;
     padding: 50px 30px;
+    display: block;
 }
 .double{
     width: 100%;
@@ -184,6 +188,8 @@ hr{
     font-weight: bold;
     padding: 20px;
     margin-top: 30px;
+    object-fit: contain;
+    
 }
 .discover img{
     background-color: #F5B52D;
@@ -228,6 +234,9 @@ border-radius: 1px;
 margin: 0;
 font-size: 1.5em;
 }
+.subscribe button:hover{
+    color: red;
+}
 .container-3{
     display: block;
     width: 370px;
@@ -239,6 +248,7 @@ font-size: 1.5em;
     align-content: stretch;
     align-items: baseline;
 }
+
 
 .container-3 img{
     object-fit: contain;
